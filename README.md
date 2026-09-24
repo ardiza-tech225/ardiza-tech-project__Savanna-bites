@@ -1,2 +1,2 @@
-# Savanna-bites-demo
-Savanna Bites homepage (Demo)
+# Savanna-bites
+Savanna Bites website 
