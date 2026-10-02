@@ -875,7 +875,7 @@ footer p {
   font-size: 12px !important;
 }
 .copyright a  {
-        color: rgba(255, 255, 255, 0.8) !important;
+        colo: rgba(255, 255, 255, 0.8) !important;
         text-decoration: underline !important;
         text-underline-offset: 4px !important;
         text-decoration-thickness: 1px !important;
